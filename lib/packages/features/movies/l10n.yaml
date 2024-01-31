@@ -1,0 +1,6 @@
+arb-dir: l10n
+template-arb-file: messages_en.arb
+output-localization-file: movies_localizations.dart
+output-class: MoviesLocalizations
+synthetic-package: false
+nullable-getter: false
